@@ -1,10 +1,13 @@
 # FaceDetectionDemo
 ios11, swift4, detect faces using Apple's Vision framework and replace with image
 
+
 Demo is using a live feed from camera as source to detect faces.
+
 
 Installation Requirements:
 1. Must use a real device. XCODE simulator will not work.
+
 
 Example 1: "Rainbow Emoji" image replaces detected faces
 <br>
